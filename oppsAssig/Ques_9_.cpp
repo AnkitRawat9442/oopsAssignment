@@ -76,7 +76,7 @@ void search_By_name(employee *e, int n, string nam)
 
 int main()
 {
-    cout << "______________ A N K I T   R A W A T _____________________" << endl;
+    cout << "\n______________ A N K I T   R A W A T _____________________" << endl;
     cout << "\nName : Ankit Rawat\nSection : G\nST ID : 20011670 \n\n";
     int n, choice, id;
     string nam;
